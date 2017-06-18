@@ -1,3 +1,3 @@
 ## My Blog
 
-[Visit my Blog](https://myblog/herokuapp.com)
+[Visit my Blog](https://sourabhjagtapblog.herokuapp.com)
